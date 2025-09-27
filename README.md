@@ -5,7 +5,7 @@ A modern and responsive web interface for managing and executing server tasks. T
 ---
 
 ##  Video Demo
-![Watch here](https://drive.google.com/file/d/1oKbYvPG0N61ORPWuB2MoOTJRmSiQh6nD/view?usp=sharing)
+Watch Video here :[Demo Video](https://drive.google.com/file/d/1oKbYvPG0N61ORPWuB2MoOTJRmSiQh6nD/view?usp=sharing)
 
 ---
 
