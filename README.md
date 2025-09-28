@@ -39,25 +39,27 @@ You need to have the following software installed on your machine:
 **Note:** This project serves as the **frontend UI for Task 1**,
 
 1. **Clone the repository**
-
+```bash
 git clone https://github.com/Shiva-Manda/Task3-Web-UI-Forms
+```
 
 2. **Navigate to the Project directory**
-
+```bash
 cd kaiburr-task-ui
+```
 
 3. **Install Dependencies**
-
+``` bash
 npm install
-
+```
 4. **Set up environment variables**
 
 REACT_APP_API_URL=http://localhost:8080
 
 5. **Run the Application**
-
+```bash
 npm start
-
+```
 ### Connecting to the Backend
 
 *This frontend is designed to work with Task 1 backend. Make sure the backend server is running.*
@@ -66,8 +68,9 @@ npm start
 
 
 # Task 1
+```bash
  git clone https://github.com/Shiva-Manda/Java-Backend-and-REST-API-Example
-
+```
 
  ## Screenshots
 **Create Task**
